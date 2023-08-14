@@ -8,8 +8,8 @@ Generates shaded subtraction plots for four lattice volumes for the average rela
 ```
 $ pip install seaborn
 ```
-3. If, for some reason, you receive the error message, "No module named X", then simply run the following command to install the required module:
+3. If, for some reason, you receive the error message, "No module named module_name", then simply run the following command to install the required module:
 ```
-$ pip install X
+$ pip install module_name
 ```
 4. To execute a Python program, run the command `python3 program_name.py`.  
